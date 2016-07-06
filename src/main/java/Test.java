@@ -18,7 +18,7 @@ public class Test {
     public static void main(String[] args) {
         try {
 
-            File testDataDir = new File("testdata1");
+            File testDataDir = new File("testdata2");
             System.out.println(testDataDir.listFiles().length);
             int i = 0;
             for (File file : testDataDir.listFiles()) {
