@@ -24,6 +24,7 @@ import net.sourceforge.lept4j.Pix;
 import net.sourceforge.tess4j.TessAPI;
 import net.sourceforge.tess4j.util.ImageIOHelper;
 import org.junit.*;
+import org.junit.Test;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

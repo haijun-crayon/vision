@@ -19,6 +19,7 @@ import net.sourceforge.tess4j.Tesseract1;
 import net.sourceforge.tess4j.util.ImageHelper;
 import net.sourceforge.tess4j.util.ImageIOHelper;
 import org.junit.*;
+import org.junit.Test;
 
 import javax.imageio.IIOImage;
 import javax.imageio.ImageIO;

@@ -18,6 +18,7 @@ import com.recognition.software.jdeskew.ImageDeskew;
 import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.util.ImageHelper;
 import org.junit.*;
+import org.junit.Test;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

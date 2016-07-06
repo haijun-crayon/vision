@@ -20,6 +20,7 @@ import net.sourceforge.tess4j.ITessAPI;
 import net.sourceforge.tess4j.TessAPI1;
 import net.sourceforge.tess4j.util.ImageIOHelper;
 import org.junit.*;
+import org.junit.Test;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
